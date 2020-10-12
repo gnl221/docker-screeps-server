@@ -25,4 +25,4 @@ EXPOSE 21027
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
 
-CMD ["init", "run"]
+CMD ["run"]
